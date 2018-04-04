@@ -1,0 +1,6 @@
+version: "Apple Swift version 4.1 (swiftlang-902.0.48 clang-902.0.37.1)"
+options: "9d5b7734d7401a3455c7efb8663f49ce"
+build_time: [1522836800, 851901000]
+inputs:
+  "/Users/nguyenductai/Desktop/Swift-Ios/dice/dice/ViewController.swift": [1511424638, 0]
+  "/Users/nguyenductai/Desktop/Swift-Ios/dice/dice/AppDelegate.swift": [1511369731, 0]
